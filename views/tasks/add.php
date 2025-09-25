@@ -2,7 +2,7 @@
   <h1>Ajouter une tache</h1>
 
   <form action="" method="post">
-    <label for="name">Nom de la marque</label>
+    <label for="name">Tache</label>
     <div class="flex">
       <input type="text" name="title" id="title" required>
       <input type="text" name="description" id="description" required>
